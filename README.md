@@ -10,7 +10,7 @@
 
 ## About
 
-- This is a quick project where I analyzed, prepared, and ploted data in python in order to answer questions in a meaningful way about the life expectancy and GDP of six countries.
+- This project uses python modules Pandas, Matplotlib, Seaborn, and SciPy to understand characteristics and correlations about species and their conservation status, and their relationship to the national parks.
 
 ## Collaborators
 
