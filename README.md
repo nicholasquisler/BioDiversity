@@ -6,7 +6,7 @@
 
 ## Preview
 
-![alt text](https://github.com/nicholasquisler/nicholasquisler.github.io/raw/main/images/biodiversity.png)
+![alt text](https://github.com/nicholasquisler/nicholasquisler.github.io/raw/main/images/biodiversity.PNG)
 
 ## About
 
